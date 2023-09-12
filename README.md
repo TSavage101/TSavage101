@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, welcome to my profile
 
-<!--
-**TSavage101/TSavage101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Tech Stack
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- Heroku
+- AWS
+- SQLite
+- PostgreSQL
+- React JS
+- Postman
 
-Here are some ideas to get you started:
+Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/TSavage101/github-readme-stats" />
