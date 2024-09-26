@@ -14,8 +14,8 @@
 <h1></h1>
 <h3>Me</h3>
 
-- 📌 I build web applications to suit the needs and challenges faced by many others with Django.
-- 🌐 I’m use React for better, faster and a more seamless frontend experience to app users.
-- 🌱 I'm actually currently learning how to use Javascript for backend
+- 📌 I build web applications to suit the needs and challenges many others face with Django.
+- 🌐 I use React for a better, faster, and more seamless frontend experience for app users.
+- 🌱 I'm currently learning how to use Javascript for backend development.
 - :shipit: I’m interested in backend Development.
-- 📫 You can reach me at Instagram: ded.sec10 Gmail: bayodeiretomiwa@gmail.com
+- 📫 You can reach me at Instagram: ded.sec10, Gmail: bayodeiretomiwa@gmail.com
